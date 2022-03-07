@@ -6,9 +6,13 @@ layout: default
 
 ### ⚔️ A List of Privacy Tools
 
-| One | two  | three  |
-|---|---|---|
-|   |   |   |
+Password Managers
+
+| Name | Description | Link |
+|------|-------------|------|
+|      |             |      |
+|      |             |      |
+|      |             |      |
 
 #### 🗡️ VPN
 
@@ -33,5 +37,11 @@ The Privacy
 <img src="images/hello.svg" alt="sample image">
 
 > "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+| Name | Description | Link |
+|------|-------------|------|
+|      |             |      |
+|      |             |      |
+|      |             |      |
 
 <hr>
