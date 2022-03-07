@@ -1,19 +1,20 @@
 ---
-layout: page
+layout: default
 ---
 
 <p align="center">
     <h6 align="center">“Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.”</h6>
 </p>
 
-<p align="center"><h4> ⚔️ List of Privacy Tools ⚔️ </h4></p>
+<p align="center">
+<h3 align="center"> ⚔️ List of Privacy Tools ⚔️ </h3>
+</p>
 
 |   | Name        | Link |
 |---|-------------|------|
 |🌍| Tor Brower | https://www.torproject.org |
-|🌍| Firefox | https://www.mozilla.org/fr/firefox  |
-
-
+|🌍| Firefox | https://www.mozilla.org/fr/firefox |
+|🌍| Brave | https://brave.com/fr |
 
 
 
