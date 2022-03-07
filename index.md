@@ -1,6 +1,5 @@
 ---
 layout: default
-title:  "Privacy Tools"
 ---
 
 ## “Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.”
@@ -9,9 +8,9 @@ title:  "Privacy Tools"
 
 <hr>
 
-💻 Operating System
+# 💻 Operating System
 
-| Name | Description | Link |
+|      | Name        | Link |
 |------|-------------|------|
 |  |  |  |
 |  |  |  |
@@ -19,9 +18,9 @@ title:  "Privacy Tools"
 [W10 Privacy](https://www.privacytools.io/operating-systems/#win10)
 [WindowsSpyBlocker](https://crazymax.dev/WindowsSpyBlocker/)
 
-🌍 Browser / Search
+## 🌍 Browser / Search
 
-| Name | Description | Link |
+|      | Name        | Link |
 |------|-------------|------|
 |🔥| Tor Brower | https://www.torproject.org |
 |🔥| Firefox    | https://www.mozilla.org/fr/firefox |
@@ -31,7 +30,7 @@ title:  "Privacy Tools"
 
 🔑 Password Managers
 
-| Name | Description | Link |
+|      | Name        | Link |
 |------|-------------|------|
 |🔥| Bitwarden | https://bitwarden.com |
 || KeePassXC | https://keepassxc.org |
@@ -40,7 +39,7 @@ title:  "Privacy Tools"
 
 Encryption
 
-| Name | Description | Link |
+|      | Name        | Link |
 |------|-------------|------|
 |🔥| BitLocker   | https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview |
 |🔥| Cryptomator | https://cryptomator.org |
@@ -50,33 +49,33 @@ Encryption
 
 📡 Communications
 
-| Name | Description | Link |
+|      | Name        | Link |
 |------|-------------|------|
 |🔥| Signal   | https://www.signal.org |
 |🔥| Telegram | https://telegram.org |
 
 📡 Privacy DNS
 
-| Name | Description | Link |
+|      | Name        | Link |
 |------|-------------|------|
 || Cloudflare | https://1.1.1.1 |
 
 🧹 Wipe File
 
-| Name | Description | Link |
+|      | Name        | Link |
 |------|-------------|------|
 |🔥| WipeFile | https://www.gaijin.at/en/software/wipefile |
 || Eraser   | https://eraser.heidi.ie |
 
-✉️ **Messaging**
+✉️ Messaging
 
-| Name | Description | Link |
+|      | Name        | Link |
 |------|-------------|------|
 |🔥| ProtonMail | https://protonmail.com |
 
 #### 🗡️ VPN
 
-| Name | Description | Link |
+|      | Name        | Link |
 |------|-------------|------|
 |🔥| ProtonVPN |  https://protonvpn.com |
 |🔥| OpenVPN   | https://openvpn.net |
@@ -84,20 +83,20 @@ Encryption
 
 ✂️ Pastbin
 
-| Name | Description | Link |
+|      | Name        | Link |
 |------|-------------|------|
 || PrivateBin | https://privatebin.net |
 
 ✂️ Secure Share
 
-| Name | Description | Link |
+|      | Name        | Link |
 |------|-------------|------|
 || Seafile | https://www.seafile.com/en/home |
 || Swisstransfer | https://www.swisstransfer.com/fr |
 
 📹 Youtube
 
-| Name | Description | Link |
+|      | Name        | Link |
 |------|-------------|------|
 | FreeTube | https://freetubeapp.io/ |
 | Vanced   | https://vancedapp.com |
