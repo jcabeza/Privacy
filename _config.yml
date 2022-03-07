@@ -1,7 +1,7 @@
 # Site settings
-title: Good Clean Read
-tag_text: Good Clean Read
-description: A responsive template for publishing single-page websites, articles that are easy on the eyes
+title: Privacy
+tag_text: Privacy
+description: A responsive single-page website
 url: "https://jcabeza.github.io/privacy"
 baseurl: "/"
 
