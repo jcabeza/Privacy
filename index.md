@@ -10,6 +10,12 @@ layout: default
 |---|---|---|
 |   |   |   |
 
+## 🗡️ VPN
+
+[OpenVPN](https://openvpn.net/)
+
+[ProtonVPN](https://protonvpn.com/)
+
 ### 📌 Links
 
 Back up your stuff with solid, clean citations. Footnotes can be written in markdown and appear like this.
