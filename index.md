@@ -3,17 +3,28 @@ layout: default
 ---
 
 <p align="center">
-    <h4 align="center">“Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.”</h4>
+    <h7 align="center">“Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.”</h7>
 </p>
 
-### ⚔️ A List of Privacy Tools
+<p align="center"> ⚔️ List of Privacy Tools ⚔️ </p>
+
+|   | Name        | Link |
+|---|-------------|------|
+|🌍| Tor Brower | https://www.torproject.org |
+|🌍| Firefox | https://www.mozilla.org/fr/firefox  |
+
+
+
+
+
+---
 
 #####  💻 Operating System
 
 |      | Name        | Link |
-|------|-------------|------|
-|  |  |  |
-|  |  |  |
+|---|-------------|------|
+|🌍| Tor Brower | https://www.torproject.org |
+|🌍| Firefox | https://www.mozilla.org/fr/firefox  |
 
 [W10 Privacy](https://www.privacytools.io/operating-systems/#win10)
 [WindowsSpyBlocker](https://crazymax.dev/WindowsSpyBlocker/)
@@ -147,8 +158,6 @@ layout: default
 The Privacy
 {% endraw %}
 </code></pre>
-
-{% include sharing.html %}
 
 <img src="images/hello.svg" alt="sample image">
 
