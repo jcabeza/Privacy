@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## “Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.”
+<p align="center">
+    <h1 align="center">“Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.”</h1>
+</p>
 
 ### ⚔️ A List of Privacy Tools
 
-<hr>
+#####  💻 Operating System
 
-## 💻 Operating System
----
 |      | Name        | Link |
 |------|-------------|------|
 |  |  |  |
@@ -18,7 +18,8 @@ layout: default
 [W10 Privacy](https://www.privacytools.io/operating-systems/#win10)
 [WindowsSpyBlocker](https://crazymax.dev/WindowsSpyBlocker/)
 
-## 🌍 Browser / Search
+##### 🌍 Browser / Search
+
 |      | Name        | Link |
 |------|-------------|------|
 |🔥| Tor Brower | https://www.torproject.org |
@@ -27,7 +28,7 @@ layout: default
 
 [Ortbot](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US&gl=US)
 
-🔑 Password Managers
+##### 🔑 Password Managers
 
 |      | Name        | Link |
 |------|-------------|------|
@@ -36,7 +37,7 @@ layout: default
 || KeePassDX | https://www.keepassdx.com |
 || OneTimePassword | https://onetimesecret.com |
 
-### Encryption
+##### Encryption
 
 |      | Name        | Link |
 |------|-------------|------|
@@ -59,20 +60,20 @@ layout: default
 |------|-------------|------|
 || Cloudflare | https://1.1.1.1 |
 
-🧹 Wipe File
+##### 🧹 Wipe File
 
 |      | Name        | Link |
 |------|-------------|------|
 |🔥| WipeFile | https://www.gaijin.at/en/software/wipefile |
 || Eraser   | https://eraser.heidi.ie |
 
-✉️ Messaging
+##### ✉️ Messaging
 
 |      | Name        | Link |
 |------|-------------|------|
 |🔥| ProtonMail | https://protonmail.com |
 
-#### 🗡️ VPN
+##### 🗡️ VPN
 
 |      | Name        | Link |
 |------|-------------|------|
@@ -80,20 +81,20 @@ layout: default
 |🔥| OpenVPN   | https://openvpn.net |
 || WireGuard | https://www.wireguard.com |
 
-✂️ Pastbin
+##### ✂️ Pastbin
 
 |      | Name        | Link |
 |------|-------------|------|
 || PrivateBin | https://privatebin.net |
 
-✂️ Secure Share
+##### ✂️ Secure Share
 
 |      | Name        | Link |
 |------|-------------|------|
 || Seafile | https://www.seafile.com/en/home |
 || Swisstransfer | https://www.swisstransfer.com/fr |
 
-📹 Youtube
+##### 📹 Youtube
 
 |      | Name        | Link |
 |------|-------------|------|
