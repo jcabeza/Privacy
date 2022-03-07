@@ -19,11 +19,6 @@ layout: default
 |🔑| KeePassXC | https://keepassxc.org |
 |🔑| KeePassDX | https://www.keepassdx.com |
 |🔑| OneTimePassword | https://onetimesecret.com |
-|🔥|  |  |
-|🔥|  |  |
-|✂️| PrivateBin | https://privatebin.net |
-|💻|  |  |
-|💻|  |  |
 |💻|  |  |
 |✉️| ProtonMail | https://protonmail.com |
 |🗡️| ProtonVPN |  https://protonvpn.com |
@@ -34,6 +29,7 @@ layout: default
 |🔥| VeraCrypt   | https://www.veracrypt.fr/code/VeraCrypt |
 |🔥| LUKS        | https://www.linuxfordevices.com/tutorials/linux/encrypting-partitions-with-luks |
 |🔥| Hat.sh      | https://hat.sh |
+|✂️| PrivateBin | https://privatebin.net |
 |✂️| Seafile | https://www.seafile.com/en/home |
 |✂️| Swisstransfer | https://www.swisstransfer.com/fr |
 |🧹| WipeFile | https://www.gaijin.at/en/software/wipefile |
@@ -60,7 +56,12 @@ layout: default
 [DarkSearch (Darknet Search)](https://darksearch.io/)
 [Shodan](https://www.shodan.io/)
 
-### 📌 Links
+
+<p align="center">
+<h3 align="center"> 📌 List of Privacy Links 📌 </h3>
+</p>
+
+---
 
 [PrivacyTests](https://privacytests.org/)
 
@@ -90,13 +91,6 @@ layout: default
 
 <hr>
 
-<pre><code>{% raw  %}
-The Privacy
-{% endraw %}
-</code></pre>
-
-<img src="images/hello.svg" alt="sample image">
-
-> "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+<img src="images/image.svg" alt="image">
 
 <hr>
