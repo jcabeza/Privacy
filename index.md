@@ -8,8 +8,8 @@ layout: default
 
 <hr>
 
-# 💻 Operating System
-
+## 💻 Operating System
+---
 |      | Name        | Link |
 |------|-------------|------|
 |  |  |  |
@@ -19,7 +19,6 @@ layout: default
 [WindowsSpyBlocker](https://crazymax.dev/WindowsSpyBlocker/)
 
 ## 🌍 Browser / Search
-
 |      | Name        | Link |
 |------|-------------|------|
 |🔥| Tor Brower | https://www.torproject.org |
@@ -37,7 +36,7 @@ layout: default
 || KeePassDX | https://www.keepassdx.com |
 || OneTimePassword | https://onetimesecret.com |
 
-Encryption
+### Encryption
 
 |      | Name        | Link |
 |------|-------------|------|
@@ -47,7 +46,7 @@ Encryption
 || LUKS        | https://www.linuxfordevices.com/tutorials/linux/encrypting-partitions-with-luks |
 || Hat.sh      | https://hat.sh |
 
-📡 Communications
+##### 📡 Communications
 
 |      | Name        | Link |
 |------|-------------|------|
