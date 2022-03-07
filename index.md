@@ -2,9 +2,7 @@
 layout: default
 ---
 
-<p align="center">
-    <h7 align="center"> > “Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.”</h7>
-</p>
+> “Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.”
 
 <p align="center">
 <h3 align="center"> ⚔️ List of Privacy Tools ⚔️ </h3>
@@ -45,6 +43,7 @@ layout: default
 |📹| FreeTube | https://freetubeapp.io/ |
 |📹| Vanced   | https://vancedapp.com |
 |📹| NewPipe  | https://newpipe.net |
+
 ---
 
 [W10 Privacy](https://www.privacytools.io/operating-systems/#win10)
