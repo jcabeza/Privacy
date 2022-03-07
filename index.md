@@ -3,10 +3,10 @@ layout: default
 ---
 
 <p align="center">
-    <h7 align="center">“Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.”</h7>
+    <h6 align="center">“Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.”</h6>
 </p>
 
-<p align="center"> ⚔️ List of Privacy Tools ⚔️ </p>
+<p align="center"><h4> ⚔️ List of Privacy Tools ⚔️ <h/4></p>
 
 |   | Name        | Link |
 |---|-------------|------|
