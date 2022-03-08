@@ -96,6 +96,6 @@ layout: default
   
 <hr>
 
-<img src="images/image.svg" alt="image">
+<img src="images/privacy.png" alt="image">
 
 <hr>
