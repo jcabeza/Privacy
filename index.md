@@ -15,6 +15,7 @@ layout: default
 |🌍| Tor Brower | https://www.torproject.org |
 |🌍| Firefox | https://www.mozilla.org/fr/firefox |
 |🌍| Brave | https://brave.com/fr |
+|🌍| DuckDuckGo | https://duckduckgo.com/ |
 |🔑| Bitwarden | https://bitwarden.com |
 |🔑| KeePassXC | https://keepassxc.org |
 |🔑| KeePassDX | https://www.keepassdx.com |
