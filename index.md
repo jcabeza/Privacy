@@ -48,13 +48,14 @@ layout: default
 
 #### TOR
 
-[Onion Share](https://onionshare.org/)
-[SecureDrop](https://securedrop.org/)
+|🌍| Tor Brower | https://www.torproject.org |
+|✂️| [Onion Share](https://onionshare.org/) ||
+|✂️| [SecureDrop](https://securedrop.org/) ||
 
 #### ☠️ Hacking
 
-[DarkSearch (Darknet Search)](https://darksearch.io/)
-[Shodan](https://www.shodan.io/)
+|| [DarkSearch (Darknet Search)](https://darksearch.io/) ||
+|| [Shodan](https://www.shodan.io/) ||
 
 
 <p align="center">
@@ -62,6 +63,8 @@ layout: default
 </p>
 
 ---
+
+<p align="center">
 
 [PrivacyTests](https://privacytests.org/)
 
@@ -89,6 +92,8 @@ layout: default
 
 [Guardian Project](https://guardianproject.github.io/haven/)
 
+</p>
+  
 <hr>
 
 <img src="images/image.svg" alt="image">
