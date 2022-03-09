@@ -36,9 +36,9 @@ layout: default
 |📹| FreeTube | https://freetubeapp.io |
 |📹| Vanced   | https://vancedapp.com |
 |📹| NewPipe  | https://newpipe.net |
-|💻| Tails | https://tails.boum.org |
-|💻| Whonix | https://www.whonix.org |
-|💻| Qubes-os | https://www.qubes-os.org |
+|💻| Tails | [](https://tails.boum.org) |
+|💻| Whonix | [](https://www.whonix.org) |
+|💻| Qubes-os | [](https://www.qubes-os.org) |
 
 ---
 
