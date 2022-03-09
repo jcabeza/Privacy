@@ -2,8 +2,6 @@
 layout: default
 ---
 
-> “Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.”
-
 <p align="center">
 <h3 align="center"> ⚔️ List of Privacy Tools ⚔️ </h3>
 </p>
@@ -65,8 +63,6 @@ layout: default
 
 ---
 
-<p align="center">
-
 [PrivacyTests](https://privacytests.org/)
 
 [CoverYourTracks](https://coveryourtracks.eff.org/)
@@ -92,11 +88,11 @@ layout: default
 [Surveillance Self-Defense](https://ssd.eff.org/)
 
 [Guardian Project](https://guardianproject.github.io/haven/)
-
-</p>
   
 <hr>
 
 <img src="images/privacy.png" alt="image">
+
+> “Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.”
 
 <hr>
