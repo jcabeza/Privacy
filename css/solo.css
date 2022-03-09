@@ -167,8 +167,8 @@ word-wrap: break-word;
 }
 
 table {
-  width: 100%;
-  border: 1px solid #ccc;
+  width: 200%;
+  border: 0,5px solid #ccc;
   border-collapse: collapse;
 }
 
