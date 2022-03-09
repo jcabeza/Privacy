@@ -18,7 +18,6 @@ layout: default
 |🔑| KeePassXC | https://keepassxc.org |
 |🔑| KeePassDX | https://www.keepassdx.com |
 |🔑| OneTimePassword | https://onetimesecret.com |
-|💻|  |  |
 |✉️| ProtonMail | https://protonmail.com |
 |🗡️| ProtonVPN |  https://protonvpn.com |
 |🗡️| OpenVPN   | https://openvpn.net |
@@ -38,6 +37,9 @@ layout: default
 |📹| FreeTube | https://freetubeapp.io/ |
 |📹| Vanced   | https://vancedapp.com |
 |📹| NewPipe  | https://newpipe.net |
+|💻| Tails | https://tails.boum.org |
+|💻| Whonix | https://www.whonix.org |
+|💻| Qubes-os | https://www.qubes-os.org |
 
 ---
 
