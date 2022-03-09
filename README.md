@@ -1,1 +1,1 @@
-# ⚔️ A List of Privacy Tools ⚔️
+<img src="img/privacy.png" alt="image">
