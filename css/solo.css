@@ -2,23 +2,20 @@
 
 html {
   font: 18px/1.6 'Open Sans', sans-serif;
-  /*font: 18px/1.6 'Roboto', sans-serif;*/
 }
 
 
 @media (max-width: 325px) {
   html { font: 17px/1.6 'Open Sans', sans-serif; }
-  /*html { font: 17px/1.6 'Roboto', sans-serif; }*/
 }
 
 body {
-  margin: 2rem 0 5rem; /* 2 & 5*/
+  margin: 2rem 0 5rem;
   color: #222;
 }
 
-@media (min-width: 30rem) { /*30*/
+@media (min-width: 30rem) {
   body {
-    /*margin-top: 5rem;*/
     margin-top: 5rem;
   }
 }
@@ -42,8 +39,8 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 750px) {
 h1, h2, h3, h4, h5, h6 {
-  margin-left: 0 !important;
-  margin-right: 0 !important;
+  margin-left: 2 !important;
+  margin-right: 2 !important;
  }
 }
 
