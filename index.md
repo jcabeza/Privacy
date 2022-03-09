@@ -10,32 +10,32 @@ layout: default
 
 |  | Tool Name | Link |
 |--|-----------|------|
-|🌍| Tor Brower | https://www.torproject.org |
-|🌍| Firefox | https://www.mozilla.org/fr/firefox |
-|🌍| Brave | https://brave.com/fr |
-|🌍| DuckDuckGo | https://duckduckgo.com/ |
-|🔑| Bitwarden | https://bitwarden.com |
-|🔑| KeePassXC | https://keepassxc.org |
-|🔑| KeePassDX | https://www.keepassdx.com |
-|🔑| OneTimePassword | https://onetimesecret.com |
-|✉️| ProtonMail | https://protonmail.com |
-|🗡️| ProtonVPN |  https://protonvpn.com |
-|🗡️| OpenVPN   | https://openvpn.net |
-|🗡️| WireGuard | https://www.wireguard.com |
-|🔥| BitLocker   | https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview |
-|🔥| Cryptomator | https://cryptomator.org |
-|🔥| VeraCrypt   | https://www.veracrypt.fr/code/VeraCrypt |
-|🔥| Hat.sh      | https://hat.sh |
-|✂️| PrivateBin | https://privatebin.net |
-|✂️| Seafile | https://www.seafile.com/en/home |
-|✂️| Swisstransfer | https://www.swisstransfer.com/fr |
-|🧹| WipeFile | https://www.gaijin.at/en/software/wipefile |
-|🧹| Eraser   | https://eraser.heidi.ie |
-|📡| Signal   | https://www.signal.org |
-|📡| Telegram | https://telegram.org |
-|📹| FreeTube | https://freetubeapp.io |
-|📹| Vanced   | https://vancedapp.com |
-|📹| NewPipe  | https://newpipe.net |
+|🌍| Tor Brower | [www.torproject.org](https://www.torproject.org) |
+|🌍| Firefox | [www.mozilla.org/fr/firefox](https://www.mozilla.org/fr/firefox) |
+|🌍| Brave | [brave.com/fr](https://brave.com/fr) |
+|🌍| DuckDuckGo | [duckduckgo.com](https://duckduckgo.com) |
+|🔑| Bitwarden | [bitwarden.com)](https://bitwarden.com) |
+|🔑| KeePassXC | [keepassxc.org](https://keepassxc.org) |
+|🔑| KeePassDX | [www.keepassdx.com](https://www.keepassdx.com) |
+|🔑| OneTimePassword | [onetimesecret.com](https://onetimesecret.com) |
+|✉️| ProtonMail | [protonmail.com](https://protonmail.com) |
+|🗡️| ProtonVPN |  [protonvpn.com](https://protonvpn.com) |
+|🗡️| OpenVPN   | [openvpn.net](https://openvpn.net) |
+|🗡️| WireGuard | [www.wireguard.com](https://www.wireguard.com) |
+|🔥| BitLocker   | [docs.microsoft.com](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview) |
+|🔥| Cryptomator | [cryptomator.org](https://cryptomator.org) |
+|🔥| VeraCrypt   | [www.veracrypt.fr](https://www.veracrypt.fr/code/VeraCrypt) |
+|🔥| Hat.sh      | [hat.sh](https://hat.sh) |
+|✂️| PrivateBin | [privatebin.net](https://privatebin.net) |
+|✂️| Seafile | [www.seafile.com](https://www.seafile.com/en/home) |
+|✂️| Swisstransfer | [www.swisstransfer.com/fr](https://www.swisstransfer.com/fr) |
+|🧹| WipeFile | [www.gaijin.at/en/software/wipefile](https://www.gaijin.at/en/software/wipefile) |
+|🧹| Eraser   | [eraser.heidi.ie](https://eraser.heidi.ie) |
+|📡| Signal   | [www.signal.org](https://www.signal.org) |
+|📡| Telegram | [telegram.org](https://telegram.org) |
+|📹| FreeTube | [freetubeapp.io](https://freetubeapp.io) |
+|📹| Vanced   | [vancedapp.com](https://vancedapp.com) |
+|📹| NewPipe  | [newpipe.net](https://newpipe.net) |
 |💻| Tails | [tails.boum.org](https://tails.boum.org) |
 |💻| Whonix | [www.whonix.org](https://www.whonix.org) |
 |💻| Qubes-os | [www.qubes-os.org](https://www.qubes-os.org) |
@@ -59,36 +59,36 @@ layout: default
 
 
 <p align="center">
-<h1 align="center"> List of Privacy Links </h1>
+<h3 align="center"> List of Privacy Links </h3>
 </p>
 
 ---
 
-  - [PrivacyTests](https://privacytests.org/)
+ - [PrivacyTests](https://privacytests.org/)
 
-  - [CoverYourTracks](https://coveryourtracks.eff.org/)
+ - [CoverYourTracks](https://coveryourtracks.eff.org/)
 
-[Mizilla PrivacyNotIncluded](https://foundation.mozilla.org/fr/privacynotincluded/)
+ - [Mizilla PrivacyNotIncluded](https://foundation.mozilla.org/fr/privacynotincluded/)
 
-[Tor Project Relay](https://community.torproject.org/relay/)
+ - [Tor Project Relay](https://community.torproject.org/relay/)
 
-[IVPN Privacy Guides](https://www.ivpn.net/privacy-guides)
+ - [IVPN Privacy Guides](https://www.ivpn.net/privacy-guides)
 
-[Prism Break](https://prism-break.org/en/)
+ - [Prism Break](https://prism-break.org/en/)
 
-[PrivacyTools](https://www.privacytools.io/)
+ - [PrivacyTools](https://www.privacytools.io/)
 
-[Freedom Press](https://freedom.press/)
+ - [Freedom Press](https://freedom.press/)
 
-[Free Software Foundation](https://www.fsf.org/)
+ - [Free Software Foundation](https://www.fsf.org/)
 
-[Tor Hidden Wiki](https://thehiddenwiki.org/)
+ - [Tor Hidden Wiki](https://thehiddenwiki.org/)
 
-[Who Tracks Me](https://whotracks.me/)
+ - [Who Tracks Me](https://whotracks.me/)
 
-[Surveillance Self-Defense](https://ssd.eff.org/)
+ - [Surveillance Self-Defense](https://ssd.eff.org/)
 
-[Guardian Project](https://guardianproject.github.io/haven/)
+ - [Guardian Project](https://guardianproject.github.io/haven/)
   
 <hr>
 
