@@ -25,7 +25,6 @@ layout: default
 |🔥| BitLocker   | https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview |
 |🔥| Cryptomator | https://cryptomator.org |
 |🔥| VeraCrypt   | https://www.veracrypt.fr/code/VeraCrypt |
-|🔥| LUKS        | https://www.linuxfordevices.com/tutorials/linux/encrypting-partitions-with-luks |
 |🔥| Hat.sh      | https://hat.sh |
 |✂️| PrivateBin | https://privatebin.net |
 |✂️| Seafile | https://www.seafile.com/en/home |
@@ -34,7 +33,7 @@ layout: default
 |🧹| Eraser   | https://eraser.heidi.ie |
 |📡| Signal   | https://www.signal.org |
 |📡| Telegram | https://telegram.org |
-|📹| FreeTube | https://freetubeapp.io/ |
+|📹| FreeTube | https://freetubeapp.io |
 |📹| Vanced   | https://vancedapp.com |
 |📹| NewPipe  | https://newpipe.net |
 |💻| Tails | https://tails.boum.org |
@@ -60,7 +59,7 @@ layout: default
 
 
 <p align="center">
-<h3 align="center"> 📌 List of Privacy Links 📌 </h3>
+<h2 align="center"> List of Privacy Links </h2>
 </p>
 
 ---
