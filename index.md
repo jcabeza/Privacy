@@ -36,9 +36,9 @@ layout: default
 |📹| FreeTube | https://freetubeapp.io |
 |📹| Vanced   | https://vancedapp.com |
 |📹| NewPipe  | https://newpipe.net |
-|💻| Tails | [](https://tails.boum.org) |
-|💻| Whonix | [](https://www.whonix.org) |
-|💻| Qubes-os | [](https://www.qubes-os.org) |
+|💻| Tails | [tails.boum.org](https://tails.boum.org) |
+|💻| Whonix | [www.whonix.org](https://www.whonix.org) |
+|💻| Qubes-os | [www.qubes-os.org](https://www.qubes-os.org) |
 
 ---
 
@@ -59,14 +59,14 @@ layout: default
 
 
 <p align="center">
-<h2 align="center"> List of Privacy Links </h2>
+<h1 align="center"> List of Privacy Links </h1>
 </p>
 
 ---
 
-[PrivacyTests](https://privacytests.org/)
+  - [PrivacyTests](https://privacytests.org/)
 
-[CoverYourTracks](https://coveryourtracks.eff.org/)
+  - [CoverYourTracks](https://coveryourtracks.eff.org/)
 
 [Mizilla PrivacyNotIncluded](https://foundation.mozilla.org/fr/privacynotincluded/)
 
