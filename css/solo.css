@@ -167,8 +167,8 @@ word-wrap: break-word;
 }
 
 table {
-  width: 200%;
-  border: 0,5px solid #ccc;
+  width: 100%;
+  border: 1px solid #ccc;
   border-collapse: collapse;
 }
 
@@ -217,56 +217,4 @@ pre > code {
  }
 }
 
-/* This gets Google to fall into place */
-.social {
- text-align: right;
-}
-
-.topsocial {
-	margin-bottom: 5em;
-}
-
-/* This gets Facebook to fall into place */
-.social iframe {
-	vertical-align: middle;
-}
-
-/* Set an optional width for your button wrappers */
-.social span {
-	display: inline-block;
-	width: 110px;
-}
-
-/* Adjust the widths individually if you like */
-.social .google {
-	width: 75px;
-}
-
-.button {
-  margin-top: 2em;
-  margin-left: 1em;
-  display: inline-block;
-  border: 2px solid #111;
-  border-radius: 0.4em;
-  padding: 0.1em 0.75em;
-  font-size: 17px;
-  color: #111;
-  text-align: center;
-}
-
-.button:hover {
-	color: white;
-	background-color: #111;
-	cursor: pointer;
-	text-decoration: none;
-	transition: 0.5s;
-}
-
-.Facebook {
-	transform: scale(1.25);
-}
-
-.sharing-buttons {
-	width: 100%;
-}
 }
