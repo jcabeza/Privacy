@@ -39,8 +39,15 @@ layout: default
 |💻| Tails | [tails.boum.org](https://tails.boum.org) |
 |💻| Whonix | [www.whonix.org](https://www.whonix.org) |
 |💻| Qubes-os | [www.qubes-os.org](https://www.qubes-os.org) |
-|🗑 | AdGuard Home | [adguard.com/fr](https://adguard.com/fr/adguard-home/overview.html) |
-|🗑 | Pi-hole | [pi-hole.net](https://pi-hole.net) |
+|🔍| AdGuard Home | [adguard.com/fr](https://adguard.com/fr/adguard-home/overview.html) |
+|🔍| Pi-hole | [pi-hole.net](https://pi-hole.net) |
+|🔐| Aegis Authenticator | [getaegis.app](https://getaegis.app) |
+|  |  | []() |
+|  |  | []() |
+|  |  | []() |
+|  |  | []() |
+|  |  | []() |
+|  |  | []() |
 
 ---
 
