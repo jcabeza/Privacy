@@ -68,6 +68,8 @@ layout: default
 
  - [CoverYourTracks](https://coveryourtracks.eff.org/)
 
+ - [Ad Blocker Test](https://d3ward.github.io/toolz/adblock.html)
+
  - [Mizilla PrivacyNotIncluded](https://foundation.mozilla.org/fr/privacynotincluded/)
 
  - [Tor Project Relay](https://community.torproject.org/relay/)
@@ -92,7 +94,7 @@ layout: default
   
 <hr>
 
-<img src="img/privacy.png" alt="image">
+<img src="img/42.png" alt="image">
 
 > “Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.”
 
