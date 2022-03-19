@@ -14,6 +14,17 @@ layout: default
 |🌍| Firefox | [www.mozilla.org/fr/firefox](https://www.mozilla.org/fr/firefox) |
 |🌍| Brave | [brave.com/fr](https://brave.com/fr) |
 |🌍| DuckDuckGo | [duckduckgo.com](https://duckduckgo.com) |
+|🧩| uBlock Origin | [Addon uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/) |
+|🧩| Privacy Badger | [Addon Privacy Badger](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/) |
+|🧩| DuckDuckGo Privacy Essentials | [Addon DuckDuckGo](https://addons.mozilla.org/fr/firefox/addon/duckduckgo-for-firefox/) |
+|🧩| HTTPS Everywhere | [Addon HTTPS Everywhere](https://addons.mozilla.org/fr/firefox/addon/https-everywhere) |
+|🧩| Ghostery | [Addon Ghostery](https://addons.mozilla.org/fr/firefox/addon/ghostery/) |
+|🧩| Redirector | [Addon Redirector](https://addons.mozilla.org/fr/firefox/addon/redirector) |
+|🧩|  | [Addon]() |
+|🧩|  | [Addon]() |
+|🧩|  | [Addon]() |
+|🧩|  | [Addon]() |
+|🧩|  | [Addon]() |
 |🔑| Bitwarden | [bitwarden.com)](https://bitwarden.com) |
 |🔑| KeePassXC | [keepassxc.org](https://keepassxc.org) |
 |🔑| KeePassDX | [www.keepassdx.com](https://www.keepassdx.com) |
@@ -42,16 +53,15 @@ layout: default
 |🔍| AdGuard Home | [adguard.com/fr](https://adguard.com/fr/adguard-home/overview.html) |
 |🔍| Pi-hole | [pi-hole.net](https://pi-hole.net) |
 |🔐| Aegis Authenticator | [getaegis.app](https://getaegis.app) |
-|  |  | []() |
-|  |  | []() |
-|  |  | []() |
-|  |  | []() |
+|🪟| Windows 10/11 Privacy | [www.oo-software.com/en/shutup10](https://www.oo-software.com/en/shutup10) |
+|🧱| Portmaster | [safing.io/portmaster](https://safing.io/portmaster/) |
+|🧹| ExifCleaner | [exifcleaner.com](https://exifcleaner.com) |
+|📺| FreeTube App | [freetubeapp.io](https://freetubeapp.io) |
 |  |  | []() |
 |  |  | []() |
 
 ---
 
-[W10 Privacy](https://www.privacytools.io/operating-systems/#win10)
 [WindowsSpyBlocker](https://crazymax.dev/WindowsSpyBlocker/)
 [Ortbot](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US&gl=US)
 
@@ -68,7 +78,7 @@ layout: default
 
 
 <p align="center">
-<h3 align="center"> List of Privacy Links </h3>
+<h3 align="center"> 🔗 List of Privacy Links 🔗 </h3>
 </p>
 
 ---
