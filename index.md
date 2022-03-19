@@ -40,6 +40,8 @@ layout: default
 |✂️| PrivateBin | [privatebin.net](https://privatebin.net) |
 |✂️| Seafile | [www.seafile.com](https://www.seafile.com/en/home) |
 |✂️| Swisstransfer | [www.swisstransfer.com/fr](https://www.swisstransfer.com/fr) |
+|✂️| Onion Share | [onionshare.org](https://onionshare.org) |
+|✂️| SecureDrop | [securedrop.org](https://securedrop.org) |
 |🧹| WipeFile | [www.gaijin.at/en/software/wipefile](https://www.gaijin.at/en/software/wipefile) |
 |🧹| Eraser   | [eraser.heidi.ie](https://eraser.heidi.ie) |
 |📡| Signal   | [www.signal.org](https://www.signal.org) |
@@ -64,12 +66,6 @@ layout: default
 
 [WindowsSpyBlocker](https://crazymax.dev/WindowsSpyBlocker/)
 [Ortbot](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US&gl=US)
-
-#### TOR
-
-|🌍| Tor Brower | https://www.torproject.org |
-|✂️| [Onion Share](https://onionshare.org/) ||
-|✂️| [SecureDrop](https://securedrop.org/) ||
 
 #### ☠️ Hacking
 
