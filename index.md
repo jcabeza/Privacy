@@ -54,8 +54,11 @@ layout: default
 |💻| Qubes-os | [www.qubes-os.org](https://www.qubes-os.org) |
 |🔍| AdGuard Home | [adguard.com/fr](https://adguard.com/fr/adguard-home/overview.html) |
 |🔍| Pi-hole | [pi-hole.net](https://pi-hole.net) |
+|🔍| Blocking list #1 | [energized.pro](https://energized.pro) |
+|🔍| Blocking list #2 | [filterlists.com](https://filterlists.com) |
 |🔐| Aegis Authenticator | [getaegis.app](https://getaegis.app) |
 |🪟| Windows 10/11 Privacy | [www.oo-software.com/en/shutup10](https://www.oo-software.com/en/shutup10) |
+|🪟| Windows 10/11 Spy Blocker | [crazymax.dev/WindowsSpyBlocker](https://crazymax.dev/WindowsSpyBlocker) |
 |🧱| Portmaster | [safing.io/portmaster](https://safing.io/portmaster) |
 |🧹| ExifCleaner | [exifcleaner.com](https://exifcleaner.com) |
 |📺| FreeTube App | [freetubeapp.io](https://freetubeapp.io) |
