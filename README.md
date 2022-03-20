@@ -1,1 +1,1 @@
-<img src="img/na.png" alt="image">
+<img src="img/privacy.png" alt="image">
