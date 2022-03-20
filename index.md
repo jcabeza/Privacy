@@ -56,22 +56,22 @@ layout: default
 |🔍| Pi-hole | [pi-hole.net](https://pi-hole.net) |
 |🔐| Aegis Authenticator | [getaegis.app](https://getaegis.app) |
 |🪟| Windows 10/11 Privacy | [www.oo-software.com/en/shutup10](https://www.oo-software.com/en/shutup10) |
-|🧱| Portmaster | [safing.io/portmaster](https://safing.io/portmaster/) |
+|🧱| Portmaster | [safing.io/portmaster](https://safing.io/portmaster) |
 |🧹| ExifCleaner | [exifcleaner.com](https://exifcleaner.com) |
 |📺| FreeTube App | [freetubeapp.io](https://freetubeapp.io) |
+|📱| NewPipe | [newpipe.net](https://newpipe.net/) |
+|📱| Orbot: Tor for Android | [org.torproject.android](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US&gl=US) |
+|📱| Tor Browser for Android | [org.torproject.torbrowser](https://play.google.com/store/apps/details?id=org.torproject.torbrowser) |
+|  |  | []() |
+|  |  | []() |
 |  |  | []() |
 |  |  | []() |
 
 ---
 
-[WindowsSpyBlocker](https://crazymax.dev/WindowsSpyBlocker/)
-[Ortbot](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US&gl=US)
+#### 💩 No Privacy
 
-#### ☠️ Hacking
-
-|| [DarkSearch (Darknet Search)](https://darksearch.io/) ||
-|| [Shodan](https://www.shodan.io/) ||
-
+|🔍| Shodan Search Engine | [shodan.io](https://www.shodan.io) |
 
 <p align="center">
 <h3 align="center"> 🔗 List of Privacy Links 🔗 </h3>
