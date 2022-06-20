@@ -112,8 +112,8 @@ layout: default
   
 <hr>
 
-<img src="img/privacy.png" alt="privacy" width="50" height="50">
-
 > “Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.”
 
 <hr>
+
+<img src="./img/privacy-stuff.png" alt="privacy" width="50" height="50"> Privacy Stuff - Developed with Love ❤
