@@ -1,10 +1,6 @@
 ---
-layout: page
+layout: default
 ---
-
-<!-- Favicon -->
-<link rel="shortcut icon" type="image/x-icon" href="./img/favicon.ico" />
-<!-- Favicon -->
 
 <p align="center">
 <h3 align="center"><img src="./img/privacy-stuff.png" height="130" width="130" ></h3>
@@ -12,17 +8,17 @@ layout: page
 
 ---
 
-### 🌍 Navigator
+#### 🌍 Navigator
 
 - [Tor Brower](https://www.torproject.org)
 
-### 🧩 Addons
+#### 🧩 Addons
 
-### 🔑 Password
+#### 🔑 Password
 
-### ✉️ Mailing
+#### ✉️ Mailing
 
-### 🗡️ VPN
+#### 🗡️ VPN
 
 |  | Tool Name | Link |
 |--|-----------|------|
