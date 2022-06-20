@@ -3,7 +3,8 @@ layout: default
 ---
 
 <p align="center">
-<h3 align="center"> ⚔️ List of Privacy Tools ⚔️ </h3>
+<h3 align="center"> ⚔️ Privacy Stuff ⚔️ </h3>
+<img src="./assets/images/privacy-stuff.png" height="130" width="130" >
 </p>
 
 ---
