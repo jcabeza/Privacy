@@ -8,17 +8,17 @@ layout: default
 
 ---
 
-# 🌍 Navigator
+### 🌍 Navigator
 
 - [Tor Brower](https://www.torproject.org)
 
-# 🧩 Addons
+### 🧩 Addons
 
-# 🔑 Password
+### 🔑 Password
 
-# ✉️ Mailing
+### ✉️ Mailing
 
-# 🗡️ VPN
+### 🗡️ VPN
 
 |  | Tool Name | Link |
 |--|-----------|------|
