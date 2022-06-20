@@ -3,8 +3,7 @@ layout: default
 ---
 
 <p align="center">
-<h3 align="center"> ⚔️ Privacy Stuff ⚔️ </h3>
-<img src="./img/privacy-stuff.png" height="130" width="130" >
+<h3 align="center"><img src="./img/privacy-stuff.png" height="130" width="130" ></h3>
 </p>
 
 ---
