@@ -20,11 +20,6 @@ layout: default
 |🧩| HTTPS Everywhere | [Addon HTTPS Everywhere](https://addons.mozilla.org/fr/firefox/addon/https-everywhere) |
 |🧩| Ghostery | [Addon Ghostery](https://addons.mozilla.org/fr/firefox/addon/ghostery/) |
 |🧩| Redirector | [Addon Redirector](https://addons.mozilla.org/fr/firefox/addon/redirector) |
-|🧩|  | [Addon]() |
-|🧩|  | [Addon]() |
-|🧩|  | [Addon]() |
-|🧩|  | [Addon]() |
-|🧩|  | [Addon]() |
 |🔑| Bitwarden | [bitwarden.com)](https://bitwarden.com) |
 |🔑| KeePassXC | [keepassxc.org](https://keepassxc.org) |
 |🔑| KeePassDX | [www.keepassdx.com](https://www.keepassdx.com) |
@@ -66,9 +61,6 @@ layout: default
 |📱| Orbot: Tor for Android | [org.torproject.android](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US&gl=US) |
 |📱| Tor Browser for Android | [org.torproject.torbrowser](https://play.google.com/store/apps/details?id=org.torproject.torbrowser) |
 |  |  | []() |
-|  |  | []() |
-|  |  | []() |
-|  |  | []() |
 
 ---
 
@@ -77,7 +69,7 @@ layout: default
 |🔍| Shodan Search Engine | [shodan.io](https://www.shodan.io) |
 
 <p align="center">
-<h3 align="center"> 🔗 List of Privacy Links 🔗 </h3>
+<h3 align="center"> 🔗 ViSit Me </h3>
 </p>
 
 ---
@@ -116,4 +108,5 @@ layout: default
 
 <hr>
 
-<img src="./img/privacy-stuff.png" alt="privacy" width="50" height="50"> Privacy Stuff - Developed with Love ❤
+<img src="./img/privacy-stuff.png" alt="privacy" width="50" height="50"> 
+<p align="center"> Privacy Stuff - Developed with Love ❤ </p>
