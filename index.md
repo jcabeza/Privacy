@@ -10,7 +10,7 @@ layout: default
 
 #### 🌍 Navigator
 
-- [Tor Brower](https://www.torproject.org)
+     - [Tor Brower](https://www.torproject.org)
 
 #### 🧩 Addons
 
