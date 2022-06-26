@@ -3,7 +3,14 @@ layout: default
 ---
 ---
 
-### Tools
+### Table of Contents
+1. [Example](#example)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+
+#### Example
+#### Example2
+#### Third Example
 
 #### 🌍 Navigator
 
@@ -55,7 +62,7 @@ layout: default
 
 - [ProtonVPN](https://protonvpn.com)
 - [OpenVPN](https://openvpn.net)
-- [WireGuard](https://www.wireguard.com)$$
+- [WireGuard](https://www.wireguard.com)
 
 #### 💻 OS
 
@@ -84,17 +91,6 @@ layout: default
 |🧹| ExifCleaner | [exifcleaner.com](https://exifcleaner.com) |
 |📺| FreeTube App | [freetubeapp.io](https://freetubeapp.io) |
 |📱| NewPipe | [newpipe.net](https://newpipe.net/) |
-
----
-
-### Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-
-#### Example
-#### Example2
-#### Third Example
 
 ---
 
