@@ -13,18 +13,7 @@ layout: default
 8. [VPN](#vpn)
 9. [OS](#os)
 
-# Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Navigator](#navigator)
-
-## Example
-## Example2
-## Third Example
-## Navigator
-
-##### 🌍 Navigator
+## 🌍 Navigator
 
 - [Tor Brower](https://www.torproject.org)   
 - [Firefox](https://www.mozilla.org/fr/firefox)
