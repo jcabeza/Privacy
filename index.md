@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Table of Contents
-1. [Navigator](####Navigator)
+1. [Navigator](#### 🌍 Navigator)
 2. [Addons](####Addons)
 3. [Password](####Password)
 4. [Mailing](####Mailing)
