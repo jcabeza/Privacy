@@ -4,7 +4,6 @@ html {
   font: 18px/1.6 'Open Sans', sans-serif;
 }
 
-
 @media (max-width: 325px) {
   html { font: 17px/1.6 'Open Sans', sans-serif; }
 }
@@ -34,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #111;
   text-rendering: optimizeLegibility;
   font-family: 'Open Sans', serif;
-  line-height: 1.2
+  line-height: 0.5
 }
 
 @media (max-width: 750px) {
