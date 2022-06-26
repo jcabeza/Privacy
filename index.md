@@ -3,7 +3,7 @@ layout: default
 ---
 ---
 
-# Tools
+### Tools
 
 #### 🌍 Navigator
 
@@ -87,18 +87,18 @@ layout: default
 
 ---
 
-# Table of Contents
+### Table of Contents
 1. [Example](#example)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 
-## Example
-## Example2
-## Third Example
+#### Example
+#### Example2
+#### Third Example
 
 ---
 
-# 🔗 ViSit Me
+### 🔗 ViSit Me
 
  - [PrivacyTests](https://privacytests.org/)
  - [CoverYourTracks](https://coveryourtracks.eff.org/)
