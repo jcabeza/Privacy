@@ -100,42 +100,21 @@ layout: default
 
 ---
 
-#### 💩 No Privacy
-
-|🔍| Shodan Search Engine | [shodan.io](https://www.shodan.io) |
-
-<p align="center">
-<h3 align="center"> 🔗 ViSit Me </h3>
-</p>
-
----
+# 🔗 ViSit Me
 
  - [PrivacyTests](https://privacytests.org/)
-
  - [CoverYourTracks](https://coveryourtracks.eff.org/)
-
  - [Ad Blocker Test](https://d3ward.github.io/toolz/adblock.html)
-
- - [Mizilla PrivacyNotIncluded](https://foundation.mozilla.org/fr/privacynotincluded/)
-
+ - [Mozilla PrivacyNotIncluded](https://foundation.mozilla.org/fr/privacynotincluded/)
  - [Tor Project Relay](https://community.torproject.org/relay/)
-
  - [IVPN Privacy Guides](https://www.ivpn.net/privacy-guides)
-
  - [Prism Break](https://prism-break.org/en/)
-
  - [PrivacyTools](https://www.privacytools.io/)
-
  - [Freedom Press](https://freedom.press/)
-
  - [Free Software Foundation](https://www.fsf.org/)
-
  - [Tor Hidden Wiki](https://thehiddenwiki.org/)
-
  - [Who Tracks Me](https://whotracks.me/)
-
  - [Surveillance Self-Defense](https://ssd.eff.org/)
-
  - [Guardian Project](https://guardianproject.github.io/haven/)
   
 <hr>
