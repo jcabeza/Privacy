@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-
-<p align="center">
-<h3 align="center">  </h3>
-</p>
-
 ---
 
 #### 🌍 Navigator
@@ -39,8 +34,8 @@ layout: default
 
 #### 📡 Messaging
 
-[Signal](https://www.signal.org)
-[Telegram](https://telegram.org)
+- [Signal](https://www.signal.org)
+- [Telegram](https://telegram.org)
 
 #### 🔐 Encryption
 
@@ -70,7 +65,6 @@ layout: default
 
 |  | Tool Name | Link |
 |--|-----------|------|
-
 |✂️| PrivateBin | [privatebin.net](https://privatebin.net) |
 |✂️| Seafile | [www.seafile.com](https://www.seafile.com/en/home) |
 |✂️| Swisstransfer | [www.swisstransfer.com/fr](https://www.swisstransfer.com/fr) |
@@ -88,7 +82,6 @@ layout: default
 |🧹| ExifCleaner | [exifcleaner.com](https://exifcleaner.com) |
 |📺| FreeTube App | [freetubeapp.io](https://freetubeapp.io) |
 |📱| NewPipe | [newpipe.net](https://newpipe.net/) |
-|  |  | []() |
 
 ---
 
