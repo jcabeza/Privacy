@@ -9,7 +9,7 @@ layout: default
 4. [Mailing](####Mailing)
 5. [Messaging](####Messaging)
 6. [Encryption](####Encryption)
-7. [Secure Deletion](####Secure Deletion)
+7. [Secure-Deletion](####Secure-Deletion)
 8. [VPN](####VPN)
 9. [OS](####OS)
 
@@ -58,7 +58,7 @@ layout: default
 - [VeraCrypt](https://www.veracrypt.fr/code/VeraCrypt)
 - [Hat.sh](https://hat.sh)
 
-#### 🧹 Secure Deletion
+#### 🧹 Secure-Deletion
 
 - [WipeFile](https://www.gaijin.at/en/software/wipefile)
 - [Eraser](https://eraser.heidi.ie)
