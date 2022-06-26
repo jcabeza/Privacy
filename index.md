@@ -13,10 +13,6 @@ layout: default
 8. [VPN](####VPN)
 9. [OS](####OS)
 
-#### Example
-#### Example2
-#### Third Example
-
 #### 🌍 Navigator
 
 - [Tor Brower](https://www.torproject.org)   
