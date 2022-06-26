@@ -13,7 +13,7 @@ layout: default
 8. [VPN](#vpn)
 9. [OS](#os)
 
-## 🌍 Navigator
+## Navigator
 
 - [Tor Brower](https://www.torproject.org)   
 - [Firefox](https://www.mozilla.org/fr/firefox)
@@ -22,7 +22,7 @@ layout: default
 - [Orbot: Tor for Android](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US&gl=US)
 - [Tor Browser for Android](https://play.google.com/store/apps/details?id=org.torproject.torbrowser)
 
-#### 🧩 Addons
+#### 🧩 🌍Addons
 
 - [uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/)
 - [Privacy Badger](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/)
