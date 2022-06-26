@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Table of Contents
-1. [Navigator](#Navigator)
+1. [Navigator](####navigator)
 2. [Addons](####Addons)
 3. [Password](####Password)
 4. [Mailing](####Mailing)
@@ -13,7 +13,16 @@ layout: default
 8. [VPN](####VPN)
 9. [OS](####OS)
 
-# Navigator
+# Table of Contents
+1. [Example](#example)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+
+## Example
+## Example2
+## Third Example
+
+##### 🌍 Navigator
 
 - [Tor Brower](https://www.torproject.org)   
 - [Firefox](https://www.mozilla.org/fr/firefox)
@@ -22,7 +31,7 @@ layout: default
 - [Orbot: Tor for Android](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US&gl=US)
 - [Tor Browser for Android](https://play.google.com/store/apps/details?id=org.torproject.torbrowser)
 
-#### 🧩🌍 Addons
+#### 🧩 Addons
 
 - [uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/)
 - [Privacy Badger](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/)
