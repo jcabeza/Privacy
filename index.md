@@ -3,7 +3,7 @@ layout: default
 ---
 
 <p align="center">
-<h3 align="center"><img src="./img/privacy-stuff.png" height="130" width="130" ></h3>
+<h3 align="center">  </h3>
 </p>
 
 ---
@@ -89,6 +89,17 @@ layout: default
 |📺| FreeTube App | [freetubeapp.io](https://freetubeapp.io) |
 |📱| NewPipe | [newpipe.net](https://newpipe.net/) |
 |  |  | []() |
+
+---
+
+# Table of Contents
+1. [Example](#example)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+
+## Example
+## Example2
+## Third Example
 
 ---
 
