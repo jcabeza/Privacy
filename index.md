@@ -3,15 +3,15 @@ layout: default
 ---
 
 ### Table of Contents
-1. [Navigator](####navigator)
-2. [Addons](####Addons)
-3. [Password](####Password)
-4. [Mailing](####Mailing)
-5. [Messaging](####Messaging)
-6. [Encryption](####Encryption)
-7. [Secure-Deletion](####Secure-Deletion)
-8. [VPN](####VPN)
-9. [OS](####OS)
+1. [Navigator](#navigator)
+2. [Addons](#addons)
+3. [Password](#password)
+4. [Mailing](#mailing)
+5. [Messaging](#messaging)
+6. [Encryption](#encryption)
+7. [Secure-Deletion](#secure-deletion)
+8. [VPN](#vpn)
+9. [OS](#os)
 
 # Table of Contents
 1. [Example](#example)
