@@ -10,8 +10,7 @@ layout: default
 
 #### 🌍 Navigator
 
-   - [Tor Brower](https://www.torproject.org)
-     
+- [Tor Brower](https://www.torproject.org)   
 - [Firefox](https://www.mozilla.org/fr/firefox)
 - [Brave](https://brave.com/fr)
 - [DuckDuckGo](https://duckduckgo.com)
