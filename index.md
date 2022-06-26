@@ -10,68 +10,85 @@ layout: default
 
 #### 🌍 Navigator
 
-     - [Tor Brower](https://www.torproject.org)
+   - [Tor Brower](https://www.torproject.org)
+     
+- [Firefox](https://www.mozilla.org/fr/firefox)
+- [Brave](https://brave.com/fr)
+- [DuckDuckGo](https://duckduckgo.com)
+- [Orbot: Tor for Android](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US&gl=US)
+- [Tor Browser for Android](https://play.google.com/store/apps/details?id=org.torproject.torbrowser)
 
 #### 🧩 Addons
 
+- [uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/)
+- [Privacy Badger](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/)
+- [DuckDuckGo](https://addons.mozilla.org/fr/firefox/addon/duckduckgo-for-firefox/)
+- [HTTPS Everywhere](https://addons.mozilla.org/fr/firefox/addon/https-everywhere)
+- [Ghostery](https://addons.mozilla.org/fr/firefox/addon/ghostery/)
+- [Redirector](https://addons.mozilla.org/fr/firefox/addon/redirector)
+
 #### 🔑 Password
+
+- [Bitwarden](https://bitwarden.com)
+- [KeePassXC](https://keepassxc.org)
+- [KeePassDX](https://www.keepassdx.com)
+- [OneTimePassword](https://onetimesecret.com)
 
 #### ✉️ Mailing
 
+- [ProtonMail](https://protonmail.com)
+
+#### 📡 Messaging
+
+[Signal](https://www.signal.org)
+[Telegram](https://telegram.org)
+
+#### 🔐 Encryption
+
+- [BitLocker](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview)
+- [Cryptomator](https://cryptomator.org)
+- [VeraCrypt](https://www.veracrypt.fr/code/VeraCrypt)
+- [Hat.sh](https://hat.sh)
+
+#### 🧹 Secure Deletion
+
+- [WipeFile](https://www.gaijin.at/en/software/wipefile)
+- [Eraser](https://eraser.heidi.ie)
+
 #### 🗡️ VPN
+
+- [ProtonVPN](https://protonvpn.com)
+- [OpenVPN](https://openvpn.net)
+- [WireGuard](https://www.wireguard.com)$$
+
+#### 💻 OS
+
+- [Tails](https://tails.boum.org)
+- [Whonix](https://www.whonix.org)
+- [Qubes-os](https://www.qubes-os.org)
+- [Windows 10/11 Privacy](https://www.oo-software.com/en/shutup10)
+- [Windows 10/11 Spy Blocker](https://crazymax.dev/WindowsSpyBlocker)
 
 |  | Tool Name | Link |
 |--|-----------|------|
-|🌍| Tor Brower | [www.torproject.org](https://www.torproject.org) |
-|🌍| Firefox | [www.mozilla.org/fr/firefox](https://www.mozilla.org/fr/firefox) |
-|🌍| Brave | [brave.com/fr](https://brave.com/fr) |
-|🌍| DuckDuckGo | [duckduckgo.com](https://duckduckgo.com) |
-|🧩| uBlock Origin | [Addon uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/) |
-|🧩| Privacy Badger | [Addon Privacy Badger](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/) |
-|🧩| DuckDuckGo Privacy Essentials | [Addon DuckDuckGo](https://addons.mozilla.org/fr/firefox/addon/duckduckgo-for-firefox/) |
-|🧩| HTTPS Everywhere | [Addon HTTPS Everywhere](https://addons.mozilla.org/fr/firefox/addon/https-everywhere) |
-|🧩| Ghostery | [Addon Ghostery](https://addons.mozilla.org/fr/firefox/addon/ghostery/) |
-|🧩| Redirector | [Addon Redirector](https://addons.mozilla.org/fr/firefox/addon/redirector) |
-|🔑| Bitwarden | [bitwarden.com)](https://bitwarden.com) |
-|🔑| KeePassXC | [keepassxc.org](https://keepassxc.org) |
-|🔑| KeePassDX | [www.keepassdx.com](https://www.keepassdx.com) |
-|🔑| OneTimePassword | [onetimesecret.com](https://onetimesecret.com) |
-|✉️| ProtonMail | [protonmail.com](https://protonmail.com) |
-|🗡️| ProtonVPN |  [protonvpn.com](https://protonvpn.com) |
-|🗡️| OpenVPN   | [openvpn.net](https://openvpn.net) |
-|🗡️| WireGuard | [www.wireguard.com](https://www.wireguard.com) |
-|🔥| BitLocker   | [docs.microsoft.com](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview) |
-|🔥| Cryptomator | [cryptomator.org](https://cryptomator.org) |
-|🔥| VeraCrypt   | [www.veracrypt.fr](https://www.veracrypt.fr/code/VeraCrypt) |
-|🔥| Hat.sh      | [hat.sh](https://hat.sh) |
+
 |✂️| PrivateBin | [privatebin.net](https://privatebin.net) |
 |✂️| Seafile | [www.seafile.com](https://www.seafile.com/en/home) |
 |✂️| Swisstransfer | [www.swisstransfer.com/fr](https://www.swisstransfer.com/fr) |
 |✂️| Onion Share | [onionshare.org](https://onionshare.org) |
 |✂️| SecureDrop | [securedrop.org](https://securedrop.org) |
-|🧹| WipeFile | [www.gaijin.at/en/software/wipefile](https://www.gaijin.at/en/software/wipefile) |
-|🧹| Eraser   | [eraser.heidi.ie](https://eraser.heidi.ie) |
-|📡| Signal   | [www.signal.org](https://www.signal.org) |
-|📡| Telegram | [telegram.org](https://telegram.org) |
 |📹| FreeTube | [freetubeapp.io](https://freetubeapp.io) |
 |📹| Vanced   | [vancedapp.com](https://vancedapp.com) |
 |📹| NewPipe  | [newpipe.net](https://newpipe.net) |
-|💻| Tails | [tails.boum.org](https://tails.boum.org) |
-|💻| Whonix | [www.whonix.org](https://www.whonix.org) |
-|💻| Qubes-os | [www.qubes-os.org](https://www.qubes-os.org) |
 |🔍| AdGuard Home | [adguard.com/fr](https://adguard.com/fr/adguard-home/overview.html) |
 |🔍| Pi-hole | [pi-hole.net](https://pi-hole.net) |
 |🔍| Blocking list #1 | [energized.pro](https://energized.pro) |
 |🔍| Blocking list #2 | [filterlists.com](https://filterlists.com) |
 |🔐| Aegis Authenticator | [getaegis.app](https://getaegis.app) |
-|🪟| Windows 10/11 Privacy | [www.oo-software.com/en/shutup10](https://www.oo-software.com/en/shutup10) |
-|🪟| Windows 10/11 Spy Blocker | [crazymax.dev/WindowsSpyBlocker](https://crazymax.dev/WindowsSpyBlocker) |
 |🧱| Portmaster | [safing.io/portmaster](https://safing.io/portmaster) |
 |🧹| ExifCleaner | [exifcleaner.com](https://exifcleaner.com) |
 |📺| FreeTube App | [freetubeapp.io](https://freetubeapp.io) |
 |📱| NewPipe | [newpipe.net](https://newpipe.net/) |
-|📱| Orbot: Tor for Android | [org.torproject.android](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US&gl=US) |
-|📱| Tor Browser for Android | [org.torproject.torbrowser](https://play.google.com/store/apps/details?id=org.torproject.torbrowser) |
 |  |  | []() |
 
 ---
