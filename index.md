@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Table of Contents
-1. [Navigator](#### Navigator)
+1. [Navigator](# Navigator)
 2. [Addons](####Addons)
 3. [Password](####Password)
 4. [Mailing](####Mailing)
@@ -13,7 +13,7 @@ layout: default
 8. [VPN](####VPN)
 9. [OS](####OS)
 
-#### Navigator
+# Navigator
 
 - [Tor Brower](https://www.torproject.org)   
 - [Firefox](https://www.mozilla.org/fr/firefox)
