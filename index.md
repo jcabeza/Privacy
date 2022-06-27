@@ -2,29 +2,16 @@
 layout: default
 ---
 
-### Table of Contents
-1. [Navigator](#navigator)
-2. [Addons](#addons)
-3. [Password](#password)
-4. [Mailing](#mailing)
-5. [Messaging](#messaging)
-6. [Encryption](#encryption)
-7. [Secure-Deletion](#secure-deletion)
-8. [VPN](#vpn)
-9. [OS](#os)
+## 🌍 Navigator
 
-## Navigator
-
-<p align="right"> 
 - [Tor Brower](https://www.torproject.org)   
 - [Firefox](https://www.mozilla.org/fr/firefox)
 - [Brave](https://brave.com/fr)
 - [DuckDuckGo](https://duckduckgo.com)
 - [Orbot: Tor for Android](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US&gl=US)
 - [Tor Browser for Android](https://play.google.com/store/apps/details?id=org.torproject.torbrowser)
-</p>
 
-#### 🧩 🌍Addons
+#### 🧩 Addons
 
 - [uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/)
 - [Privacy Badger](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/)
