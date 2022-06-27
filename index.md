@@ -14,14 +14,15 @@ layout: default
 9. [OS](#os)
 
 ## Navigator
----
 
+<p align="right"> 
 - [Tor Brower](https://www.torproject.org)   
 - [Firefox](https://www.mozilla.org/fr/firefox)
 - [Brave](https://brave.com/fr)
 - [DuckDuckGo](https://duckduckgo.com)
 - [Orbot: Tor for Android](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US&gl=US)
 - [Tor Browser for Android](https://play.google.com/store/apps/details?id=org.torproject.torbrowser)
+</p>
 
 #### 🧩 🌍Addons
 
