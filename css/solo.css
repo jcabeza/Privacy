@@ -68,7 +68,7 @@ h2 {
   font-weight: 500;
   margin-bottom: 5rem;
   color: #555;
-  text-align: right;
+  text-align: left; /* align left-right */
   margin-right: -4rem;
 }
 
