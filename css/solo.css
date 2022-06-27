@@ -10,7 +10,7 @@ html {
 
 body {
   margin: 2rem 0 5rem;
-  color: #222; /* tiret, liste - #222, #292=green */
+  color: #222;
 }
 
 @media (min-width: 30rem) {
@@ -20,7 +20,7 @@ body {
 }
 
 a {
-  color: #01FF70; /* From http://clrs.cc #0074d9 */
+  color: #0074d9; /* From http://clrs.cc */
   text-decoration: none;
 }
 
