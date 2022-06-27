@@ -10,7 +10,7 @@ html {
 
 body {
   margin: 2rem 0 5rem;
-  color: #222;
+  color: #292; /* #222 */
 }
 
 @media (min-width: 30rem) {
@@ -68,7 +68,7 @@ h2 {
   font-weight: 500;
   margin-bottom: 5rem;
   color: #555;
-  text-align: left; /* align left-right */
+  text-align: right; /* align left-right */
   margin-right: -4rem;
 }
 
