@@ -79,6 +79,13 @@ layout: default
 
 - [ExifCleaner](https://exifcleaner.com)
 
+#### 🔍 Tracking & Advertising
+
+- [AdGuard Home](https://adguard.com/fr/adguard-home/overview.html)
+- [Pi-hole](https://pi-hole.net)
+- [Blocking list #1](https://energized.pro)
+- [Blocking list #2](https://filterlists.com)
+
 #### 💻 OS
 
 - [Tails](https://tails.boum.org)
@@ -89,10 +96,7 @@ layout: default
 
 |  | Tool Name | Link |
 |--|-----------|------|
-|🔍| AdGuard Home | [adguard.com/fr](https://adguard.com/fr/adguard-home/overview.html) |
-|🔍| Pi-hole | [pi-hole.net](https://pi-hole.net) |
-|🔍| Blocking list #1 | [energized.pro](https://energized.pro) |
-|🔍| Blocking list #2 | [filterlists.com](https://filterlists.com) |
+
 |🔐| Aegis Authenticator | [getaegis.app](https://getaegis.app) |
 
 ---
