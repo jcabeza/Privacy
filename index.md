@@ -19,6 +19,7 @@ layout: default
 - [HTTPS Everywhere](https://addons.mozilla.org/fr/firefox/addon/https-everywhere)
 - [Ghostery](https://addons.mozilla.org/fr/firefox/addon/ghostery/)
 - [Redirector](https://addons.mozilla.org/fr/firefox/addon/redirector)
+- [Privacy Redirect](https://addons.mozilla.org/fr/firefox/addon/privacy-redirect/)
 
 #### 🔑 Password
 
@@ -35,6 +36,10 @@ layout: default
 
 - [Signal](https://www.signal.org)
 - [Telegram](https://telegram.org)
+
+#### 🧱 Firewall & Network
+
+- [Portmaster](https://safing.io/portmaster)
 
 #### 🔐 Encryption
 
@@ -54,6 +59,26 @@ layout: default
 - [OpenVPN](https://openvpn.net)
 - [WireGuard](https://www.wireguard.com)
 
+#### ✂️ Pastebin
+
+- [PrivateBin](https://privatebin.net)
+- [Seafile](https://www.seafile.com/en/home)
+
+#### 🗒️ File Transfert
+
+- [SwissTransfer](https://www.swisstransfer.com/fr)
+- [Onion Share](https://onionshare.org)
+- [SecureDrop](https://securedrop.org)
+
+#### 📹 📺 Youtube
+
+- [FreeTube](https://freetubeapp.io)
+- [NewPipe for Android](https://newpipe.net)
+
+#### 🧹 Exif Data
+
+- [ExifCleaner](https://exifcleaner.com)
+
 #### 💻 OS
 
 - [Tails](https://tails.boum.org)
@@ -64,23 +89,11 @@ layout: default
 
 |  | Tool Name | Link |
 |--|-----------|------|
-|✂️| PrivateBin | [privatebin.net](https://privatebin.net) |
-|✂️| Seafile | [www.seafile.com](https://www.seafile.com/en/home) |
-|✂️| Swisstransfer | [www.swisstransfer.com/fr](https://www.swisstransfer.com/fr) |
-|✂️| Onion Share | [onionshare.org](https://onionshare.org) |
-|✂️| SecureDrop | [securedrop.org](https://securedrop.org) |
-|📹| FreeTube | [freetubeapp.io](https://freetubeapp.io) |
-|📹| Vanced   | [vancedapp.com](https://vancedapp.com) |
-|📹| NewPipe  | [newpipe.net](https://newpipe.net) |
 |🔍| AdGuard Home | [adguard.com/fr](https://adguard.com/fr/adguard-home/overview.html) |
 |🔍| Pi-hole | [pi-hole.net](https://pi-hole.net) |
 |🔍| Blocking list #1 | [energized.pro](https://energized.pro) |
 |🔍| Blocking list #2 | [filterlists.com](https://filterlists.com) |
 |🔐| Aegis Authenticator | [getaegis.app](https://getaegis.app) |
-|🧱| Portmaster | [safing.io/portmaster](https://safing.io/portmaster) |
-|🧹| ExifCleaner | [exifcleaner.com](https://exifcleaner.com) |
-|📺| FreeTube App | [freetubeapp.io](https://freetubeapp.io) |
-|📱| NewPipe | [newpipe.net](https://newpipe.net/) |
 
 ---
 
