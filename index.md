@@ -86,6 +86,10 @@ layout: default
 - [Blocking list #1](https://energized.pro)
 - [Blocking list #2](https://filterlists.com)
 
+#### 🔐 Multi-Factor Authentication (MFA)
+
+- [Aegis Authenticator](https://getaegis.app)
+
 #### 💻 OS
 
 - [Tails](https://tails.boum.org)
@@ -93,11 +97,6 @@ layout: default
 - [Qubes-os](https://www.qubes-os.org)
 - [Windows 10/11 Privacy](https://www.oo-software.com/en/shutup10)
 - [Windows 10/11 Spy Blocker](https://crazymax.dev/WindowsSpyBlocker)
-
-|  | Tool Name | Link |
-|--|-----------|------|
-
-|🔐| Aegis Authenticator | [getaegis.app](https://getaegis.app) |
 
 ---
 
