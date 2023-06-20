@@ -102,20 +102,21 @@ layout: default
 
 #### 🔗 ViSit Me
 
- - [PrivacyTests](https://privacytests.org/)
- - [CoverYourTracks](https://coveryourtracks.eff.org/)
+ - [PrivacyTests](https://privacytests.org)
+ - [PrivacyGuide](https://www.privacyguides.org/fr)
+ - [CoverYourTracks](https://coveryourtracks.eff.org)
  - [Ad Blocker Test](https://d3ward.github.io/toolz/adblock.html)
- - [Mozilla PrivacyNotIncluded](https://foundation.mozilla.org/fr/privacynotincluded/)
- - [Tor Project Relay](https://community.torproject.org/relay/)
+ - [Mozilla PrivacyNotIncluded](https://foundation.mozilla.org/fr/privacynotincluded)
+ - [Tor Project Relay](https://community.torproject.org/relay)
  - [IVPN Privacy Guides](https://www.ivpn.net/privacy-guides)
- - [Prism Break](https://prism-break.org/en/)
- - [PrivacyTools](https://www.privacytools.io/)
- - [Freedom Press](https://freedom.press/)
- - [Free Software Foundation](https://www.fsf.org/)
- - [Tor Hidden Wiki](https://thehiddenwiki.org/)
- - [Who Tracks Me](https://whotracks.me/)
- - [Surveillance Self-Defense](https://ssd.eff.org/)
- - [Guardian Project](https://guardianproject.github.io/haven/)
+ - [Prism Break](https://prism-break.org/en)
+ - [PrivacyTools](https://www.privacytools.io)
+ - [Freedom Press](https://freedom.press)
+ - [Free Software Foundation](https://www.fsf.org)
+ - [Tor Hidden Wiki](https://thehiddenwiki.org)
+ - [Who Tracks Me](https://whotracks.me)
+ - [Surveillance Self-Defense](https://ssd.eff.org)
+ - [Guardian Project](https://guardianproject.github.io/haven)
   
 <hr>
 
