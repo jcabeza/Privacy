@@ -117,6 +117,7 @@ layout: default
  - [Who Tracks Me](https://whotracks.me)
  - [Surveillance Self-Defense](https://ssd.eff.org)
  - [Guardian Project](https://guardianproject.github.io/haven)
+ - [Ethical.Net](https://ethical.net)
   
 <hr>
 
