@@ -116,12 +116,9 @@ layout: default
  - [Surveillance Self-Defense](https://ssd.eff.org)
  - [Guardian Project](https://guardianproject.github.io/haven)
  - [Ethical.Net](https://ethical.net)
-  
-<hr>
 
-> “Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.”
-
-<hr>
-
+```  
+“Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.” — Edward Snowden.
+```
 <!--<img src="./img/privacy-stuff.png" alt="privacy" width="50" height="50"> -->
-<p align="center"> Privacy Stuff - Developed with Love ❤ </p>
+<p align="center"> Privacy Stuff - Developed with Love 💜 </p>
