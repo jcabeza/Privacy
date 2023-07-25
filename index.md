@@ -98,8 +98,6 @@ layout: default
 - [Windows 10/11 Privacy](https://www.oo-software.com/en/shutup10)
 - [Windows 10/11 Spy Blocker](https://crazymax.dev/WindowsSpyBlocker)
 
----
-
 #### 🔗 ViSit Me
 
  - [PrivacyTests](https://privacytests.org)
@@ -125,5 +123,5 @@ layout: default
 
 <hr>
 
-<img src="./img/privacy-stuff.png" alt="privacy" width="50" height="50"> 
+<!--<img src="./img/privacy-stuff.png" alt="privacy" width="50" height="50"> -->
 <p align="center"> Privacy Stuff - Developed with Love ❤ </p>
