@@ -122,3 +122,7 @@ layout: default
 ```
 <!--<img src="./img/privacy-stuff.png" alt="privacy" width="50" height="50"> -->
 <p align="center"> Privacy Stuff - Developed with Love 💜 </p>
+<p align="center">
+ 💙 <a href="https://jcabeza.github.io/Awesome-Links)">AzStuff</a>
+ ❤️ <a href="https://jcabeza.github.io/Awesome-Links)">Awesome Links</a>
+</p>
