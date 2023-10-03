@@ -85,6 +85,7 @@ layout: default
 - [Pi-hole](https://pi-hole.net)
 - [Blocking list #1](https://energized.pro)
 - [Blocking list #2](https://filterlists.com)
+- [Blocking list #3](https://firebog.net)
 
 #### 🔐 Multi-Factor Authentication (MFA)
 
@@ -95,6 +96,7 @@ layout: default
 - [Tails](https://tails.boum.org)
 - [Whonix](https://www.whonix.org)
 - [Qubes-os](https://www.qubes-os.org)
+- [Security Onion 2](https://securityonionsolutions.com)
 - [Windows 10/11 Privacy](https://www.oo-software.com/en/shutup10)
 - [Windows 10/11 Spy Blocker](https://crazymax.dev/WindowsSpyBlocker)
 
@@ -116,6 +118,9 @@ layout: default
  - [Surveillance Self-Defense](https://ssd.eff.org)
  - [Guardian Project](https://guardianproject.github.io/haven)
  - [Ethical.Net](https://ethical.net)
+ - [OSINT Framework](https://osintframework.com)
+ - [OSINT FR](https://osintfr.com/fr/outils)
+ - [Sirius Cyber Guide](https://aek.one/sirius-cyber-guide)
 
 ```  
 “Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.” — Edward Snowden.
