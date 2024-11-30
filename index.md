@@ -17,7 +17,6 @@ layout: default
 - [Privacy Badger](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/)
 - [DuckDuckGo](https://addons.mozilla.org/fr/firefox/addon/duckduckgo-for-firefox/)
 - [HTTPS Everywhere](https://addons.mozilla.org/fr/firefox/addon/https-everywhere)
-- [Ghostery](https://addons.mozilla.org/fr/firefox/addon/ghostery/)
 - [Redirector](https://addons.mozilla.org/fr/firefox/addon/redirector)
 - [Privacy Redirect](https://addons.mozilla.org/fr/firefox/addon/privacy-redirect/)
 
@@ -128,6 +127,6 @@ layout: default
 <!--<img src="./img/privacy-stuff.png" alt="privacy" width="50" height="50"> -->
 <p align="center"> Privacy Stuff - Developed with Love 💜 </p>
 <p align="center">
- 💙 <a href="https://jcabeza.github.io/Awesome-Links">AzStuff</a>
+ 💙 <a href="https://jcabeza.github.io/AzStuff">AzStuff</a>
  ❤️ <a href="https://jcabeza.github.io/Awesome-Links">Awesome Links</a>
 </p>
