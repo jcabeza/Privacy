@@ -42,7 +42,7 @@ layout: default
 
 #### 🔐 Encryption
 
-- [BitLocker](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview)
+- [BitLocker](https://urls.fr/XvYYc0)
 - [Cryptomator](https://cryptomator.org)
 - [VeraCrypt](https://www.veracrypt.fr/code/VeraCrypt)
 - [Hat.sh](https://hat.sh)
