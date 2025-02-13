@@ -2,8 +2,6 @@
 layout: default
 ---
 
-![Large example image](https://urls.fr/-DsTys "Privacy")
-
 💡 :
 ✔️ Used
 ❌ Not Used
