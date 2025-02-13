@@ -2,12 +2,15 @@
 layout: default
 ---
 
-#### 🌍 Navigator
+💡 :
+✔️ Used
+❌ Not Used
 
-- [Tor Brower](https://www.torproject.org)   
+#### 🌍 Browser
+
+- [Tor Browser](https://www.torproject.org)   
 - [Firefox](https://www.mozilla.org/fr/firefox)
 - [Brave](https://brave.com/fr)
-- [DuckDuckGo](https://duckduckgo.com)
 - [Orbot: Tor for Android](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US&gl=US)
 - [Tor Browser for Android](https://play.google.com/store/apps/details?id=org.torproject.torbrowser)
 
@@ -15,7 +18,6 @@ layout: default
 
 - [uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/)
 - [Privacy Badger](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/)
-- [DuckDuckGo](https://addons.mozilla.org/fr/firefox/addon/duckduckgo-for-firefox/)
 - [HTTPS Everywhere](https://addons.mozilla.org/fr/firefox/addon/https-everywhere)
 - [Redirector](https://addons.mozilla.org/fr/firefox/addon/redirector)
 - [Privacy Redirect](https://addons.mozilla.org/fr/firefox/addon/privacy-redirect/)
